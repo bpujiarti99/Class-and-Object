@@ -1,0 +1,7 @@
+D:\SEMESTER2\18.11.2330\classobject\classdanobject\classdanobject\bin\Debug\classdanobject.exe.config
+D:\SEMESTER2\18.11.2330\classobject\classdanobject\classdanobject\bin\Debug\classdanobject.exe
+D:\SEMESTER2\18.11.2330\classobject\classdanobject\classdanobject\bin\Debug\classdanobject.pdb
+D:\SEMESTER2\18.11.2330\classobject\classdanobject\classdanobject\obj\Debug\classdanobject.csprojAssemblyReference.cache
+D:\SEMESTER2\18.11.2330\classobject\classdanobject\classdanobject\obj\Debug\classdanobject.csproj.CoreCompileInputs.cache
+D:\SEMESTER2\18.11.2330\classobject\classdanobject\classdanobject\obj\Debug\classdanobject.exe
+D:\SEMESTER2\18.11.2330\classobject\classdanobject\classdanobject\obj\Debug\classdanobject.pdb
